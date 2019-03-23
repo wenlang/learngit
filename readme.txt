@@ -3,4 +3,10 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 git diff   diff
+------------分割线--------------
+Creating a new branch is quick.
+
+
+
+
 -------------------dev branch-------------------------
