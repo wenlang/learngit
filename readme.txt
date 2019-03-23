@@ -5,6 +5,7 @@ Git tracks changes of files.
 git diff   diff
 ------------分割线--------------
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
 
 
 
