@@ -6,6 +6,10 @@ git diff   diff
 ------------分割线--------------
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
+-------------------dev branch---
+------------分割线--------------
+Creating a new branch is quick.
+Creating a new branch is quick AND simple.
 
 Creating a new branch is quick & simple.
 
